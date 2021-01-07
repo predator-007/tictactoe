@@ -1,0 +1,14 @@
+.square{
+  height: 50px;
+  width: 50px;
+  padding : 2px;
+}
+.container{
+  align-content: center;
+}
+.grid-container {
+  display: grid;
+  grid-template-columns: 50px 50px 50px;
+  grid-gap : 0px;
+  
+}
